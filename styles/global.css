@@ -3,7 +3,7 @@
 html,
 body {
     background-color: var(--background-color);
-    background-image: url("/media/photography/1.jpg");
+    background-image: url("../media/photography/1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
